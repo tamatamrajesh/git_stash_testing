@@ -1,1 +1,2 @@
+This is lines added into master
 This is a new feature.
