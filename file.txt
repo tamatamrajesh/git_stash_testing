@@ -1,1 +1,2 @@
+this is one line added into feature-branch
 This is a new feature.
